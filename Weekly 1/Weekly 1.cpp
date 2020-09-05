@@ -6,7 +6,6 @@ for each inputand print the output on console.
 */
 #include <iostream>
 #include <string>
-#include <conio.h>
 char initial = 'J';
 std::string Fullname = "";
 std::string FrontName = "";
